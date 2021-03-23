@@ -1,0 +1,32 @@
+.katalog{
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    flex-direction:row;
+    align-items: center;
+    justify-content:space-around;
+  
+   
+   
+    
+
+}
+#bir,#iki,#uc,#dord,#bes,#alti{
+  display: flex;
+  width: 320px;
+  height: 320px;
+  margin: 50px;
+  padding: 50px;
+
+  
+
+
+}
+h1{
+  background-color: gold;
+  text-align: center;
+  font-size:xx-large;
+  margin: 10px;
+  padding: 10px;
+
+}
